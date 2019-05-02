@@ -1,8 +1,6 @@
 name: base
-channels:
-  - bcminch
-  - conda-forge
-  - defaults
+channels:  
+  - conda-forge  
 dependencies:
   - _ipyw_jlab_nb_ext_conf=0.1.0
   - alabaster=0.7.12
@@ -295,4 +293,4 @@ dependencies:
     - traittypes==0.2.1
     - uritemplate==3.0.0
     - xarray==0.12.1
-prefix: C:\Users\lucie.koucka\AppData\Local\Continuum\anaconda3
+
